@@ -1,0 +1,4 @@
+pythoncom
+pywinhook
+pywin32
+pynput
